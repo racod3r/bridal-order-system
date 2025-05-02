@@ -54,6 +54,7 @@ https://youtu.be/TBljnY3zZD4
 ### Project Status
 - The **Reports** section has not been coded yet
 - I intend to add a stock list which the user can make changes to
+- I intend on increasing the efficiency of my code by making use of functions etc
 - I am still working with the company and aim to finish my project soon
 
 ### Slightly outdated documentation
