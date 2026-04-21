@@ -1,5 +1,5 @@
 # bridal-order-system
-A Windows Forms application for managing and processing bridal orders that I made for a local company. Built using Visual Basic in Visual Studio 2022 as part of amy A-Level Computer Science coursework project.
+A Windows Forms application for managing and processing bridal orders that I made for a local company. Built using Visual Basic in Visual Studio 2022 as part of my A-Level Computer Science coursework project.
 
 ## Features
 - Login system with user management (add, edit, remove users)
